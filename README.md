@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 **方脩**
 
 **十九世，方字辈。**
@@ -7,6 +8,7 @@
 
 **📫 How to reach me: fanghsiu@foxmail.com**
 
+**If you shed tears when you miss the sun, you also miss the stars.**
 <!--
  <p>
   <img width="50%"src="https://github-readme-stats-820sxk75u.vercel.app/api?username=fanghsiu&show_icons=true&hide_border=true?theme=radical" />
