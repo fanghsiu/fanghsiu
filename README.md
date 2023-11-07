@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&random=false&width=435&lines=Huafeng+Xiayun+Luoshui+Tianyi)
+
+![心惟依](https://github-readme-stats.vercel.app/api?username=fanghsiu)
+
 ### Hi there 👋
 
 **方脩**
@@ -9,11 +13,6 @@
 **📫 How to reach me: fanghsiu@foxmail.com**
 
 **If you shed tears when you miss the sun, you also miss the stars.**
-<!--
- <p>
-  <img width="50%"src="https://github-readme-stats-820sxk75u.vercel.app/api?username=fanghsiu&show_icons=true&hide_border=true?theme=radical" />
- </p>
--->
 
 <!--
 **fangxiu0525/fangxiu0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
