@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=KaiTi&size=50&pause=1000&color=66CCFF&center=true&vCenter=true&random=false&width=435&lines=天一生水+地六成之)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=KaiTi&size=50&pause=1000&color=66CCFF&center=true&vCenter=true&random=false&width=435&lines=华风夏韵+洛水天依)
 
 ![fanghsiu](https://github-readme-stats.vercel.app/api?username=fanghsiu&show_icons=true)
 
@@ -12,7 +12,7 @@
 
 **当你为错过太阳而哭泣的时候，你也要再错过群星了。**
 
-**📫 How to reach me: fanghsiu@foxmail.com**
+**📫 How to reach me: fanghsiu@outlook.com**
 
 <!--
 **fanghsiu/fanghsiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
