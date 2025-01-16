@@ -3,7 +3,7 @@
 ![fanghsiu](https://github-readme-stats.vercel.app/api?username=fanghsiu&show_icons=true)
 
 ### Hi there 👋
-
+<!--
 **方脩**
 
 **十九世，方字辈。**
@@ -11,6 +11,8 @@
 **脩，是一个汉字，读音为xiū，高、长的意思，可引申为遥远、美好之意。**
 
 **当你为错过太阳而哭泣的时候，你也要再错过群星了。**
+-->
+**If you shed tears when you miss the sun, you also miss the stars.**
 
 **📫 How to reach me: fanghsiu@outlook.com**
 
