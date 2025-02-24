@@ -14,8 +14,6 @@
 -->
 **If you shed tears when you miss the sun, you also miss the stars.**
 
-**📫 How to reach me: fanghsiu@outlook.com**
-
 <!--
 **fanghsiu/fanghsiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
