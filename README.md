@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=KaiTi&size=50&pause=1000&color=66CCFF&center=true&vCenter=true&random=false&width=435&lines=华风夏韵+洛水天依)
 
-![fanghsiu](https://github-readme-stats.vercel.app/api?username=fanghsiu&show_icons=true)
+<!-- ![fanghsiu](https://github-readme-stats-fast.vercel.app/api?username=fanghsiu&show_icons=true)
 
-### Hi there 👋
+### Hi there 👋 -->
 <!--
 **方脩**
 
